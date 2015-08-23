@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "What are you looking at?"
+date:   2015-08-23 14:33:23
+categories: fluff
+---
+I'm making this website using OSX Terminal. The future and the past glance suspiciously at each other...
+
+{% highlight c# %}
+using (var blog = Blog.NewBlog(this))
+{
+  blog.Content = Brain.Instance.CreateContent("Cool Topic",Languages.English );
+  blog.Publish();
+}
+
+{% endhighlight %}

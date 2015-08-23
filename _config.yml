@@ -1,0 +1,12 @@
+# Site settings
+title: Rian's Blog
+email: rian.finnegan(at)gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  My name is Rian Finnegan and this is a blog, of sorts.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://xtellurian.github.io" # the base hostname & protocol for your site
+twitter_username: xtellurian
+github_username:  xtellurian
+
+# Build settings
+markdown: kramdown
