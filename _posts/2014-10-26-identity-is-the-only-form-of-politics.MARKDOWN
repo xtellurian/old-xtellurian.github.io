@@ -7,18 +7,7 @@ tags: []
 status: publish
 type: post
 published: true
-meta:
-  _edit_last: '43323652'
-  geo_public: '0'
-  _publicize_pending: '1'
-author:
-  login: rianexists
-  email: flanagan89@gmail.com
-  display_name: The Voice From Somwhere
-  first_name: ''
-  last_name: ''
 excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 <p>Identity is the way we transpose the subjective into the objective. It is the fixed point by which we pivot between our personal universe and the social world. Identity is the <span style="text-decoration:underline;">only</span><em> </em>way to politics, though "Identity Politics" has been denounced by many as too post-modern, or a cause of modern political apathy, or a conscious plan by the elite to divide the working class. The denial of identity as fundamental to political or human experience is drawn from the hubris of infallibility.</p>
 <p>Here I will consider three indispensable components of politics and the role of identity within them. First, how identity grows concurrently with beliefs and ideology. Second, how identity is the foundation of political groups. Third, how identity drives effective political action from popular opinion to war. These discussions are not so abstract as to be irrelevant to the world today. Conflict in the 21st century cannot be understood without understanding the perceptions, motivations, and groups that exist. The USA and ISIS have this is common: both have unshakeable belief in manifest destiny, and that empowers those that fight in all arenas.</p>
