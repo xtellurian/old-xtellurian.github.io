@@ -22,4 +22,4 @@ excerpt: !ruby/object:Hpricot::Doc
 <p>&nbsp;</p>
 <p>To summarise: long lived social groups consist of individuals who have internalised a group identity. The beliefs and ideology of the members create objective coordinates with which members can orient themselves. Actions made by these members, and hence by the group, are motivated by those very same beliefs and ideology. The stronger the claim to objectivity, the more members will act in the interest of the group over themselves. Successful groups tend to retain existing members, to create new members, and to increase the power of members - this is called the fundamental heuristic of successful groups.</p>
 <p>&nbsp;</p>
-<p>Next up: How can we use the fundamental heuristic of successful groups to affect social change.</p>
+
