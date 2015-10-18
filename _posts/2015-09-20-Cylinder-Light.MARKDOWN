@@ -12,6 +12,7 @@ published: true
 ![A promising start]({{ site.url }}/assets/light1.jpg)
 
 Want to make your own custom dynamic LED light?
+
 ## Ingredients:
 
 * LEDs. As always, NeoPixels are the tri-colour LED of choice, due to their simple single-wire serial, and excellent choice of form-factors. I've used Sparkfun's [Flexible LED array](https://www.sparkfun.com/products/13304) because of its LED density, and the cool flexible PCB means I can easily make a cylindrical array.
