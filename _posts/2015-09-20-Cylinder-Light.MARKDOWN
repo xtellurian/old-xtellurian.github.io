@@ -23,8 +23,14 @@ Want to make your own custom dynamic LED light?
 * Outer Frame. Some pieces of workable wood, and some tools for woking it.
 * 'Tronics, including DC power jacks, a decent 5V power supply (I'm using a 10A supply), some multi-core, etc.
 
-## Code:
+## Code and Setup:
 
 You can get download the Arduino code at my [github repository](https://github.com/xtellurian/LightAlarm).
 
 If you want to control it via bluetooth, for now, you can use Adafruit's Android or iOS app to send colours and change modes.
+
+## During Development
+
+In the video, my MacBook is not doing any processing - everything is running off an Arduino UNO.
+
+[![Work In Progress](http://img.youtube.com/vi/Mm09RHbRcS0/0.jpg)](https://youtu.be/Mm09RHbRcS0)
